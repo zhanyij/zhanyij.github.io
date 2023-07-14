@@ -17,7 +17,7 @@ Actuarial Science, Quantitative Risk Management, Insurance, Financial Mathematic
 
 <h2>Academic Presenation</h2>
 
-* The 26th International Congress on Insurance: Mathematics and Economics - Edinburgh, U.K (2023)
+* The 26th International Congress on Insurance: Mathematics and Economics - Edinburgh, U.K. (2023)
   * Title: <i>"Worst-case upper partial moment risk measures with application to robust portfolio selection"</i>  [[Slides]](http://zhanyij.github.io/files/26th_ime.pdf)
 * Waterloo Student Conference in Statistics, Actuarial Science and Finance - Waterloo, Canada (2022)
   * Title: <i>"An axiomatic theory for anonymized risk sharing"</i>  [[Slides]](http://zhanyij.github.io/files/uw.pdf)
