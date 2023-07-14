@@ -7,10 +7,10 @@ main:
     url: /publications/  
 
   - title: "Teaching"
-    url: /markdown/
+    url: /teach/
     
   #- title: "Teaching"
-  #  url: /teach/    
+  #  url: /teaching/    
 
   - title: "Miscellaneous"
     url: /miscellaneous/
