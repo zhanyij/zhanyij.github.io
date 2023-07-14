@@ -18,12 +18,12 @@ Actuarial Science, Quantitative Risk Management, Insurance, Financial Mathematic
 <h2>Academic Presenation</h2>
 
 * The 26th International Congress on Insurance: Mathematics and Economics - Edinburgh, U.K (2023)
-  * Title: "Worst-case upper partial moment risk measures with application to robust portfolio selection" [Slides](http://zhanyij.github.io/files/26th_ime.pdf)
+  * Title: <i>"Worst-case upper partial moment risk measures with application to robust portfolio selection"</i>  [[Slides]](http://zhanyij.github.io/files/26th_ime.pdf)
 * Waterloo Student Conference in Statistics, Actuarial Science and Finance - Waterloo, Canada (2022)
-  * Title: "An axiomatic theory for anonymized risk sharing" [Slides](http://zhanyij.github.io/files/uw.pdf)
+  * Title: <i>"An axiomatic theory for anonymized risk sharing"</i>  [[Slides]](http://zhanyij.github.io/files/uw.pdf)
 * 57th Actuarial Research Conference - Urbana-Champaign, U.S. (2022)
-  * Title: "A reverse Expected Shortfall optimization formula" [Slides](http://zhanyij.github.io/files/57th_arc.pdf)
+  * Title: <i>"A reverse Expected Shortfall optimization formula"</i>  [[Slides]](http://zhanyij.github.io/files/57th_arc.pdf)
 * The 25th International Congress on Insurance: Mathematics and Economics - Guangzhou, China (Online) (2022)
-  * Title: "A reverse Expected Shortfall optimization formula" [Slides](http://zhanyij.github.io/files/25th_ime.pdf)
+  * Title: <i>"A reverse Expected Shortfall optimization formula"</i>  [[Slides]](http://zhanyij.github.io/files/25th_ime.pdf)
 * The 23rd International Congress on Insurance: Mathematics and Economics - Munich, Germany (2019)
-  * Title: "Optimal retention rate in risk pooling arrangement with moral hazard"
+  * Title: <i>"Optimal retention rate in risk pooling arrangement with moral hazard"</i>
