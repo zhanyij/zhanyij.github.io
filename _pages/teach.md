@@ -5,13 +5,13 @@ author_profile: true
 ---
 
 <h2>Instructor</h2>
-<h4>University of Waterloo</h4>
+<h3>University of Waterloo</h3>
 
 * ACTSC 231 - Introductory Financial Mathematics, (Fall 2023)
 
 
 <h2>Teaching Assistant</h2>
-<h4>University of Waterloo</h4>
+<h3>University of Waterloo</h3>
 
 * ACTSC 454/ACTSC 854 - Longevity and Mortality Using Predictive Analytics, (Winter 2022 - 2023)
 * ACTSC 371 - Introduction to Investment, (Winter 2023)
@@ -22,6 +22,6 @@ author_profile: true
 * MATBUS 371 - Introduction to Corporate Finance, (Fall 2021)
 * STAT 230 - Probability, (Spring 2021)
 
-<h4>China University of Geosciences (Wuhan)</h2>
+<h3>China University of Geosciences (Wuhan)</h3>
 
 * Mathematical Analysis I, (Fall 2016)
