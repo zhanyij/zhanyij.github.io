@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 You can download a PDF copy my CV [here](http://zhanyij.github.io/files/Zhanyi_Jiao_CV.pdf)
 
-Education
-======
+<h2>Education</h2>
+
 * Ph.D Candidate in Actuarial Science, University of Waterloo, 2020 - present
   * <i>Supervisor</i>: [Jun Cai](https://sas.uwaterloo.ca/~jcai/) and [Ruodu Wang](https://sas.uwaterloo.ca/~wang/index.html)
 * M.Sc. in Actuarial Science, Central University of Finance and Economics, 2017 - 2020
@@ -19,16 +19,17 @@ Education
 * B.S. in Mathematics and Applied Mathematics, China University of Geosciences (Wuhan), 2013 - 2017
 * B.Ec in Finance, Wuhan University, 2014 - 2017
 
-Work experience
-======
+<h2>Work experience</h2>
+
 * Research Mentor, (2023.01 - 2023.05) - Univeristy of Waterloo
   * Served as research mentor and mentored two female undergraduate students from [Women in Mathematics (WiM)](https://uwaterloo.ca/women-in-mathematics/) on the topic “<i>An introduction to risk optimization in insurance</i>”.
 
 * Research Assistant, (2019.03 - 2019.06) - Univeristy of Melbourne
   * Research on topics in risk model and risk sharing arrangement for a mutual pool in a non-cooperative game with moral hazard.
   
-Honors and Awards
-======
+<h2>Honors and Awards</h2>
+
+
 <b>Selected Honors</b>
 * [James C. Hickman Scholars](https://www.soa.org/resources/announcements/press-releases/2023/2023-hickman-scholars/),  (2023 - 2024) - Society of Actuaries (SOA)
 * International Doctoral Student Award, (2020 - 2024) - Univeristy of Waterloo
