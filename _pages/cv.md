@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,12 +8,14 @@ redirect_from:
 ---
 
 {% include base_path %}
+You can download a PDF copy my CV here
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D Candidate in Actuarial Science, University of Waterloo, 2020 - present
+* M.Sc. in Actuarial Science, Central University of Finance and Economics, 2017 - 2020
+* B.S. in Mathematics and Applied Mathematics, China University of Geosciences (Wuhan), 2013 - 2017
+* B.Ec in Finance, Wuhan University, 2014 - 2017
 
 Work experience
 ======
