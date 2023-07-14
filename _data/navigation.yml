@@ -7,7 +7,10 @@ main:
     url: /publications/  
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /markdown/
+    
+  #- title: "Teaching"
+  #  url: /teaching/    
 
   - title: "Miscellaneous"
     url: /talks/  
@@ -17,6 +20,4 @@ main:
         
   #- title: "Blog Posts"
   #  url: /year-archive/
-    
-  #- title: "Guide"
-  #  url: /markdown/
+  
