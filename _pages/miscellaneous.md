@@ -5,6 +5,9 @@ permalink: /miscellaneous/
 author_profile: true
 ---
 
-Service and Volunteer
-======
-* Service and Volunteer
+<h2>Service and Volunteer</h2>
+
+* Conference Volunteer/Session Chair - University of Waterloo（2022）
+  * 3rd Waterloo Student Conference in Statistics, Actuarial Science and Finance
+  
+
