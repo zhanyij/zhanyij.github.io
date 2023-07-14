@@ -19,6 +19,10 @@ You can download a PDF copy my CV [here](http://zhanyij.github.io/files/Zhanyi_J
 * B.S. in Mathematics and Applied Mathematics, China University of Geosciences (Wuhan), 2013 - 2017
 * B.Ec in Finance, Wuhan University, 2014 - 2017
 
+<h2>Professional Designation</h2>
+
+* Associate of the Society of Actuaries (ASA)
+
 <h2>Work experience</h2>
 
 * Research Mentor, (2023.01 - 2023.05) - Univeristy of Waterloo
