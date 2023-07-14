@@ -13,51 +13,33 @@ You can download a PDF copy my CV [here](http://zhanyij.github.io/files/Zhanyi_J
 Education
 ======
 * Ph.D Candidate in Actuarial Science, University of Waterloo, 2020 - present
- * Supervisor: [Jun Cai](https://sas.uwaterloo.ca/~jcai/) and [Ruodu Wang](https://sas.uwaterloo.ca/~wang/index.html)
+  * <i>Supervisor</i>: [Jun Cai](https://sas.uwaterloo.ca/~jcai/) and [Ruodu Wang](https://sas.uwaterloo.ca/~wang/index.html)
 * M.Sc. in Actuarial Science, Central University of Finance and Economics, 2017 - 2020
- * Supervisor: [Ming Zhou](http://stat.ruc.edu.cn/Home/People/Faculty/40dfbd0a8c4f4a7a889f0b761efc8b99.htm)
+  * <i>Supervisor</i>: [Ming Zhou](http://stat.ruc.edu.cn/Home/People/Faculty/40dfbd0a8c4f4a7a889f0b761efc8b99.htm)
 * B.S. in Mathematics and Applied Mathematics, China University of Geosciences (Wuhan), 2013 - 2017
 * B.Ec in Finance, Wuhan University, 2014 - 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Mentor, (2023.01 - 2023.05) - Univeristy of Waterloo
+  * Served as research mentor and mentored two female undergraduate students from [Women in Mathematics (WiM)](https://uwaterloo.ca/women-in-mathematics/) on the topic “<i>An introduction to risk optimization in insurance</i>”.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Assistant, (2019.03 - 2019.06) - Univeristy of Melbourne
+  * Research on topics in risk model and risk sharing arrangement for a mutual pool in a non-cooperative game with moral hazard.
   
-Skills
+Honors and Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+<b>Selected Honors</b>
+* [James C. Hickman Scholars](https://www.soa.org/resources/announcements/press-releases/2023/2023-hickman-scholars/),  (2023 - 2024) - Society of Actuaries (SOA)
+* International Doctoral Student Award, (2020 - 2024) - Univeristy of Waterloo
+* Postgraduate Academic Scholarship, (2017 - 2020) - Central University of Finance and Economics
+* The Outstanding Graduate Award, (2017) - China University of Geosciences
+* Dean’s/Headmaster’s List of Distinguished Students Scholarship (2015 - 2016) - China University of Geosciences
+* The Annual Outstanding Student Scholarship (2014) - China University of Geosciences
+  
+<b>Selected Awards</b>
+* Mathematical Contest in Modeling (MCM/ICM), (2017) - <i>Honorable Mention</i>
+* Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM), (2015) - <i>National Second Prize</i>
+* Central China Mathematical Contest in Modeling (CCMCM), (2014) - <i>Second Prize</i>
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
