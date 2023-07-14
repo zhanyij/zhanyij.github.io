@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can download a PDF copy my CV [here](http://zhanyij.github.io/files/CV_Zhanyi_Jiao.pdf)
+You can download a PDF copy my CV [here](http://zhanyij.github.io/files/Zhanyi_Jiao_CV.pdf)
 
 Education
 ======
