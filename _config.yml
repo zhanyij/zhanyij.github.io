@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhanyi Jiao's Homepage"
+title                    : "Zhanyi Jiao"
 title_separator          : "-"
-name                     : &name "Zhanyi Jiao's Homepage"
+name                     : &name "Zhanyi Jiao"
 description              : &description "personal description"
 url                      : https://zhanyij.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
