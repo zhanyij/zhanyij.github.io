@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhanyi Jiao"
+title                    : "Zhanyi Jiao's Homepage"
 title_separator          : "-"
 name                     : &name "Zhanyi Jiao"
 description              : &description "personal description"
