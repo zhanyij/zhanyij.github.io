@@ -36,6 +36,8 @@ You can download a PDF copy my CV [here](http://zhanyij.github.io/files/Zhanyi_J
 
 <b>Selected Honors</b>
 * [James C. Hickman Scholars](https://www.soa.org/resources/announcements/press-releases/2023/2023-hickman-scholars/),  (2023 - 2024) - Society of Actuaries (SOA)
+* Women in Mathematics Directed Reading Program Mentorship Award, (2023) - Univeristy of Waterloo
+* University of Waterloo Graduate Scholarship, (2023) - Univeristy of Waterloo
 * International Doctoral Student Award, (2020 - 2024) - Univeristy of Waterloo
 * Postgraduate Academic Scholarship, (2017 - 2020) - Central University of Finance and Economics
 * The Outstanding Graduate Award, (2017) - China University of Geosciences
