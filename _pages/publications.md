@@ -12,7 +12,7 @@ Actuarial Science, Quantitative Risk Management, Insurance, Financial Mathematic
 
 * Cai, J., <b>Jiao, Z.</b> and Mao, T. (2023). Worst-case target semi-variances with applications to robust portfolio selection.
 * <b>Jiao, Z.</b>, Kou, S., Liu, Y. and Wang, R. (2022). An axiomatic theory for anonymized risk sharing. [[arXiv]](https://arxiv.org/abs/2208.07533)
-* Guan, Y., <b>Jiao, Z.</b> and Wang, R. (2022). A reverse Expected Shortfall optimization formula. <i>submitted to North American Actuarial Journal</i>. [[arXiv]](https://arxiv.org/abs/2203.02599)
+* Guan, Y., <b>Jiao, Z.</b> and Wang, R. (2022). A reverse Expected Shortfall optimization formula. <i>accepted by North American Actuarial Journal</i>. [[arXiv]](https://arxiv.org/abs/2203.02599)
 * <b>Jiao, Z.</b> (2019). Optimal mutual risking sharing arrangement with moral hazard. <i>Graduate Dissertation</i> - Advisor: Ming Zhou.
 
 <h2>Academic Presenation</h2>
