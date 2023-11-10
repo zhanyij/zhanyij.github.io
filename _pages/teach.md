@@ -4,7 +4,7 @@ title: "Teaching Experience"
 author_profile: true
 ---
 
-<h2>Instructor</h2>
+<h2>Course Instructor</h2>
 <h3>University of Waterloo</h3>
 
 * ACTSC 231 - Introductory Financial Mathematics (Fall 2023)
