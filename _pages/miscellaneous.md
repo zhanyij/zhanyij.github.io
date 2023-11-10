@@ -9,8 +9,8 @@ author_profile: true
 
 * Seminar Organizers - University of Waterloo (2023)
   * [Weekly Seminars on Risk Management and Actuarial Science](https://yang-liu16.github.io/seminar/)
-* Conference Volunteer/Session Chair - University of Waterloo (2022)
-  * 3rd Waterloo Student Conference in Statistics, Actuarial Science and Finance
+* Conference Coordinator/Session Chair - University of Waterloo (2022-2023)
+  * 3rd and 4th Waterloo Student Conference in Statistics, Actuarial Science and Finance
 
 <h2>Language</h2>
 
