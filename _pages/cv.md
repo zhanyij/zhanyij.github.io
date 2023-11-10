@@ -16,6 +16,7 @@ You can download a PDF copy my CV [here](http://zhanyij.github.io/files/Zhanyi_J
   * <i>Supervisor</i>: [Jun Cai](https://sas.uwaterloo.ca/~jcai/) and [Ruodu Wang](https://sas.uwaterloo.ca/~wang/index.html)
 * M.Sc. in Actuarial Science, Central University of Finance and Economics, 2017 - 2020
   * <i>Supervisor</i>: [Ming Zhou](http://stat.ruc.edu.cn/Home/People/Faculty/40dfbd0a8c4f4a7a889f0b761efc8b99.htm)
+* Visiting Student in Actuarial Science, The Univeristy of Melbourne, 2019.03 - 2019.06
 * B.S. in Mathematics and Applied Mathematics, China University of Geosciences (Wuhan), 2013 - 2017
 * B.Ec in Finance, Wuhan University, 2014 - 2017
 
@@ -28,8 +29,8 @@ You can download a PDF copy my CV [here](http://zhanyij.github.io/files/Zhanyi_J
 * Research Mentor, (2023.01 - 2023.05) - Univeristy of Waterloo
   * Served as research mentor and mentored two female undergraduate students from [Women in Mathematics (WiM)](https://uwaterloo.ca/women-in-mathematics/) on the topic “<i>An introduction to risk optimization in insurance</i>”.
 
-* Research Assistant, (2019.03 - 2019.06) - Univeristy of Melbourne
-  * Research on topics in risk model and risk sharing arrangement for a mutual pool in a non-cooperative game with moral hazard.
+<!--  * Research Assistant, (2019.03 - 2019.06) - Univeristy of Melbourne --> 
+<!--  * Research on topics in risk model and risk sharing arrangement for a mutual pool in a non-cooperative game with moral hazard. --> 
   
 <h2>Honors and Awards</h2>
 
