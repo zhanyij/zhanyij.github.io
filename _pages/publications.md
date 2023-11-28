@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <h2>Research Interest</h2>
-Actuarial Science, Quantitative Risk Management, Insurance, Financial Mathematics
+Actuarial Science; Quantitative Risk Management; Insurance; Financial Mathematics
 
 <h2>Publication and Manuscripts</h2>
 
