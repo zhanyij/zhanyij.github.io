@@ -13,7 +13,7 @@ You can download a PDF copy of my CV [here](http://zhanyij.github.io/files/Zhany
 <h2>Education</h2>
 
 * Ph.D Candidate in Actuarial Science, University of Waterloo, 2020 - present
-  * <i>Supervisor</i>: [Jun Cai](https://sas.uwaterloo.ca/~jcai/) and [Ruodu Wang](https://sas.uwaterloo.ca/~wang/index.html)
+  * <i>Supervisors</i>: [Jun Cai](https://sas.uwaterloo.ca/~jcai/) and [Ruodu Wang](https://sas.uwaterloo.ca/~wang/index.html)
 * M.Sc. in Actuarial Science, Central University of Finance and Economics, 2017 - 2020
   * <i>Supervisor</i>: [Ming Zhou](http://stat.ruc.edu.cn/Home/People/Faculty/40dfbd0a8c4f4a7a889f0b761efc8b99.htm)
 * Visiting Student in Actuarial Science, The Univeristy of Melbourne, 2019.03 - 2019.06
