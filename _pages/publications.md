@@ -16,7 +16,7 @@ Actuarial Science; Quantitative Risk Management; Insurance; Financial Mathematic
 * Guan, Y., <b>Jiao, Z.</b> and Wang, R. (2022). A reverse Expected Shortfall optimization formula. <i>North American Actuarial Journal</i>, 1-15. [[NAAJ]](https://doi.org/10.1080/10920277.2023.2249524), [[arXiv]](https://arxiv.org/abs/2203.02599)
   <!--  <b>Jiao, Z.</b> (2019). Optimal mutual risking sharing arrangement with moral hazard. <i>Graduate Dissertation</i> - Advisor: Ming Zhou. -->
 
-<h2>Academic Presetations</h2>
+<h2>Academic Presentations</h2>
 
 * The 26th International Congress on Insurance: Mathematics and Economics - Edinburgh, U.K. (2023)
   * Title: <i>"Worst-case upper partial moment risk measures with application to robust portfolio selection"</i>  [[Slides]](http://zhanyij.github.io/files/26th_ime.pdf)
