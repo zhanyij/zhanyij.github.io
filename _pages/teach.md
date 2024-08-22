@@ -5,6 +5,10 @@ author_profile: true
 ---
 
 <h2>Course Instructor</h2>
+<h3>Illinois State University</h3>
+
+* MAT 280 - Financial Mathematics (UEC course) (Fall 2024)
+
 <h3>University of Waterloo</h3>
 
 * ACTSC 231 - Introductory Financial Mathematics (Fall 2023)
