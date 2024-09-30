@@ -10,7 +10,7 @@ Actuarial Science; Quantitative Risk Management; Insurance; Financial Mathematic
 
 <h2>Publications and Manuscripts</h2>
 
-* Fan, Y., <b>Jiao, Z.</b> and Wang, R. (2023). Testing mean and variance by e-processes. accepted by <i>[[Biometrika]]</i>(https://doi.org/10.1093/biomet/asae049) [[arXiv]](https://arxiv.org/abs/2301.12480)
+* Fan, Y., <b>Jiao, Z.</b> and Wang, R. (2023). Testing mean and variance by e-processes. accepted by [[<i>Biometrika</i>]](https://arxiv.org/abs/2301.12480),[[arXiv]](https://arxiv.org/abs/2301.12480)
 * Cai, J., <b>Jiao, Z.</b> and Mao, T. (2023). Worst-case target semi-variances with applications to robust portfolio selection. <i>Working Paper</i>.
 * <b>Jiao, Z.</b>, Kou, S., Liu, Y. and Wang, R. (2022). An axiomatic theory for anonymized risk sharing. [[arXiv]](https://arxiv.org/abs/2208.07533)
 * Guan, Y., <b>Jiao, Z.</b> and Wang, R. (2022). A reverse Expected Shortfall optimization formula. <i>North American Actuarial Journal</i>, <b>28</b>(3), 611-625. [[NAAJ]](https://doi.org/10.1080/10920277.2023.2249524), [[arXiv]](https://arxiv.org/abs/2203.02599)
