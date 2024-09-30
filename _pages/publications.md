@@ -11,10 +11,9 @@ Actuarial Science; Quantitative Risk Management; Insurance; Financial Mathematic
 <h2>Publications and Manuscripts</h2>
 
 * Fan, Y., <b>Jiao, Z.</b> and Wang, R. (2024). Testing mean and variance by e-processes. Accepted by [<i>Biometrika</i>](https://arxiv.org/abs/2301.12480), forthcoming.
-<!-- * [[arXiv]](https://arxiv.org/abs/2301.12480) -->
+* * Guan, Y., <b>Jiao, Z.</b> and Wang, R. (2023). A reverse ES (CVaR) optimization formula. [<i>North American Actuarial Journal</i>](https://doi.org/10.1080/10920277.2023.2249524) <b>28</b>(3), 611-625.
 * Cai, J., <b>Jiao, Z.</b> and Mao, T. (2023). Worst-case target semi-variances with applications to robust portfolio selection. <i>Working Paper</i>.
 * <b>Jiao, Z.</b>, Kou, S., Liu, Y. and Wang, R. (2022). An axiomatic theory for anonymized risk sharing. [[arXiv]](https://arxiv.org/abs/2208.07533)
-* Guan, Y., <b>Jiao, Z.</b> and Wang, R. (2022). A reverse ES (CVaR) optimization formula. [<i>North American Actuarial Journal</i>](https://doi.org/10.1080/10920277.2023.2249524) <b>28</b>(3), 611-625.
   
  <!--  <i>North American Actuarial Journal</i>, <b>28</b>(3), 611-625. [[NAAJ]](https://doi.org/10.1080/10920277.2023.2249524), [[arXiv]](https://arxiv.org/abs/2203.02599) -->
   <!--  <b>Jiao, Z.</b> (2019). Optimal mutual risking sharing arrangement with moral hazard. <i>Graduate Dissertation</i> - Advisor: Ming Zhou. -->
