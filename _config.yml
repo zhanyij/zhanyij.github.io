@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zhanyi Jiao, ASA"
   avatar           : "profile.JPG"
-  bio              : "PhD Candidate <br> Department of Statistics and Actuarial Science <br> University of Waterloo"
-  location         : "Canada, Ontario, Waterloo"
+  bio              : "Assistant Professor <br> Department of Mathematics <br> Illinois State University"
+  location         : "USA, Illinois, Normal"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "z27jiao@uwaterloo.ca"
+  email            : "zjiao1@ilstu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
