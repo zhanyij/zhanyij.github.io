@@ -12,7 +12,7 @@ You can download a PDF copy of my CV [here](http://zhanyij.github.io/files/Zhany
 
 <h2>Employment</h2>
 
-* Assistant Professor, Mathematics Department, Illinois State University, 2024 - present
+* Assistant Professor, Department of Mathematics, Illinois State University, 2024 - present
 
 <h2>Professional Designation</h2>
 
