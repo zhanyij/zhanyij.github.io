@@ -29,10 +29,10 @@ You can download a PDF copy of my CV [here](http://zhanyij.github.io/files/Zhany
 
 * Associate of the Society of Actuaries (ASA)
 
-<h2>Professional Experience</h2>
+<!-- <h2>Professional Experience</h2>
 
 * Research Mentor, (2023.01 - 2023.05) - Univeristy of Waterloo
-  * Mentored two female undergraduate students from [Women in Mathematics (WiM)](https://uwaterloo.ca/women-in-mathematics/) on the topic “<i>An introduction to risk optimization in insurance</i>”.
+  * Mentored two female undergraduate students from [Women in Mathematics (WiM)](https://uwaterloo.ca/women-in-mathematics/) on the topic “<i>An introduction to risk optimization in insurance</i>”. -->
 
 <!--  * Research Assistant, (2019.03 - 2019.06) - Univeristy of Melbourne --> 
 <!--  * Research on topics in risk model and risk sharing arrangement for a mutual pool in a non-cooperative game with moral hazard. --> 
