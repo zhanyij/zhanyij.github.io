@@ -14,6 +14,9 @@ You can download a PDF copy of my CV [here](http://zhanyij.github.io/files/Zhany
 
 * Assistant Professor, Mathematics Department, Illinois State University, 2024 - present
 
+<h2>Professional Designation</h2>
+
+* Associate of the Society of Actuaries (ASA)
 
 <h2>Education</h2>
 
@@ -24,10 +27,6 @@ You can download a PDF copy of my CV [here](http://zhanyij.github.io/files/Zhany
 * Visiting Student in Actuarial Science, The Univeristy of Melbourne, 2019.03 - 2019.06
 * B.S. in Mathematics and Applied Mathematics, China University of Geosciences (Wuhan), 2013 - 2017
 * B.Ec in Finance, Wuhan University, 2014 - 2017
-
-<h2>Professional Designation</h2>
-
-* Associate of the Society of Actuaries (ASA)
 
 <!-- <h2>Professional Experience</h2>
 
