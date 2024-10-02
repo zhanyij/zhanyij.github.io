@@ -29,7 +29,7 @@ You can download a PDF copy of my CV [here](http://zhanyij.github.io/files/Zhany
 
 * Associate of the Society of Actuaries (ASA)
 
-<h2>Work experience</h2>
+<h2>Professional Experience</h2>
 
 * Research Mentor, (2023.01 - 2023.05) - Univeristy of Waterloo
   * Mentored two female undergraduate students from [Women in Mathematics (WiM)](https://uwaterloo.ca/women-in-mathematics/) on the topic “<i>An introduction to risk optimization in insurance</i>”.
