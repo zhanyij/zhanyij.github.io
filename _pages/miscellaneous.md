@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 <h2>Professional Service</h2>
+* Actuarial Science and Statistics Seminar Organizers - Illinois State University (2024-present)
+  * [Illinois State University Actuarial Research Seminar](https://about.illinoisstate.edu/actuary/actuarial-seminar/).
 * Actuarial Committee Member - Illinois State University (2024-present)
   * Help shape policies on curriculum development on SOA UEC course at ISU, support actuarial scholarships, connect with industry partners to provide internship.
 * Research Mentor - Univeristy of Waterloo (2023)
