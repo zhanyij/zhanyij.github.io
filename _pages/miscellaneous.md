@@ -5,6 +5,9 @@ permalink: /miscellaneous/
 author_profile: true
 ---
 
+<h2>Peer Review Service</h2>
+* IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
+
 <h2>Professional Service</h2>
 * Actuarial Science and Statistics Seminar Organizer - Illinois State University (2024-present)
   * [Illinois State University Actuarial Research Seminar](https://about.illinoisstate.edu/actuary/actuarial-seminar/).
