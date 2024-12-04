@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 <h2>Peer Review Service</h2>
+* ASTIN Bulletin – The Journal of the IAA
 * IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
 
 <h2>Professional Service</h2>
