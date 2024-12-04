@@ -8,7 +8,7 @@ author_profile: true
 <h3>Illinois State University</h3>
 
 * MAT 280 - Financial Mathematics (UEC course) (Fall 2024, Spring 2025)
-* MAT 385 - Actuarial Models V (UEC course) (Spring 2025)
+* MAT 385/485 - Actuarial Models V (UEC course) (Spring 2025)
 
 <h3>University of Waterloo</h3>
 
