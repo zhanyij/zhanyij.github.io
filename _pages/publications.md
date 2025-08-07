@@ -20,6 +20,8 @@ Actuarial Science; Quantitative Risk Management; Insurance; Financial Mathematic
 
 <h2>Academic Presentations</h2>
 
+* 2025 Perspectives on Actuarial Risks in Talks of Young Researchers - Liverpool, U.K. (2025)
+  * Title: <i>"Testing mean and variance by e-processes with applications in finance"</i>  [[Slides]](http://zhanyij.github.io/files/25_party.pdf)
 * The 26th International Congress on Insurance: Mathematics and Economics - Edinburgh, U.K. (2023)
   * Title: <i>"Worst-case upper partial moment risk measures with application to robust portfolio selection"</i>  [[Slides]](http://zhanyij.github.io/files/26th_ime.pdf)
 * Waterloo Student Conference in Statistics, Actuarial Science and Finance - Waterloo, Canada (2022)
