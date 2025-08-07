@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <h2>Course Instructor</h2>
-<h3>Illinois State University</h3>
+<h3>Arizona State University</h3>
 
 * ACT 455 - Quantitative Risk Management (Fall 2025)
 
