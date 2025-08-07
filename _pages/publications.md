@@ -10,9 +10,9 @@ Actuarial Science; Quantitative Risk Management; Insurance; Financial Mathematic
 
 <h2>Publications and Manuscripts</h2>
 
-* Fan, Y., <b>Jiao, Z.</b> and Wang, R. (2024). Testing mean and variance by e-processes. Accepted by [<i>Biometrika</i>](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asae049/7796539), forthcoming.
+* Cai, J., <b>Jiao, Z.</b> and Mao, T. (2025). Worst-case target semi-variances with applications to robust portfolio selection. Accepted by *European Journal of Operational Research*, forthcoming.
+* Fan, Y., <b>Jiao, Z.</b> and Wang, R. (2024). Testing mean and variance by e-processes.[<i>Biometrika</i>](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asae049/7796539), <b>112</b>(1).
 *  Guan, Y., <b>Jiao, Z.</b> and Wang, R. (2023). A reverse ES (CVaR) optimization formula. [<i>North American Actuarial Journal</i>](https://doi.org/10.1080/10920277.2023.2249524) <b>28</b>(3), 611-625.
-* Cai, J., <b>Jiao, Z.</b> and Mao, T. (2023). Worst-case target semi-variances with applications to robust portfolio selection. Submitted to *European Journal of Operational Research* (under review) [[arXiv]](https://arxiv.org/abs/2410.01732).
 * <b>Jiao, Z.</b>, Kou, S., Liu, Y. and Wang, R. (2022). An axiomatic theory for anonymized risk sharing. Submitted to *Journal of Political Economy* (under review) [[arXiv]](https://arxiv.org/abs/2208.07533).
   
  <!--  <i>North American Actuarial Journal</i>, <b>28</b>(3), 611-625. [[NAAJ]](https://doi.org/10.1080/10920277.2023.2249524), [[arXiv]](https://arxiv.org/abs/2203.02599) -->
