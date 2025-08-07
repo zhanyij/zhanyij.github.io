@@ -12,7 +12,8 @@ You can download a PDF copy of my CV [here](http://zhanyij.github.io/files/Zhany
 
 <h2>Employment</h2>
 
-* Assistant Professor, Department of Mathematics, Illinois State University, 2024 - present
+* Assistant Professor, School of Mathematical and Statistical Sciences, Arizona State University, 2025.8 - present
+* Assistant Professor, Department of Mathematics, Illinois State University, 2024.8 - 2025.8
 
 <h2>Professional Designation</h2>
 
