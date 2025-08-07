@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zhanyi Jiao"
   avatar           : "profile.JPG"
-  bio              : "Assistant Professor <br> Department of Mathematics <br> Illinois State University"
-  location         : "USA, Illinois, Normal"
+  bio              : "Assistant Professor <br> School of Mathematical and Statistical Sciences <br> Arizona State University"
+  location         : "USA, Arizona, Tempe"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=GLuujPkAAAAJ&hl=en&oi=ao"
-  email            : "zjiao1@ilstu.edu"
+  email            : "zjiao123@asu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
