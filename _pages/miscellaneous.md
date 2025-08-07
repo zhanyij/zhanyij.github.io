@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 <h2>Peer Review Service</h2>
+* North American Actuarial Journal
 * ASTIN Bulletin – The Journal of the IAA
+* Statistics and Risk Modeling
 * IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
 
 <h2>Professional Service</h2>
